@@ -7,9 +7,7 @@ Naver maps and Daum maps are what the locals use and amazing. As long as you can
 
 ## coffee
 
-coffee in korea is generally expensive and mediocre, but there are certainly gems to be found. If you're a coffee snob, Paul Bassett is the most reliable common coffee chain around.
-
-A fun place to go is Coffee Project. You can do a blind taste test on coffee from around the world
+coffee in korea is generally expensive and mediocre, but there are many exceptions. A fun place to go is Coffee Project. You can do a blind taste test on coffee from around the world
 
 http://www.goingsomewhereslowly.com/2015/01/coffee-project-seoul/
 
@@ -19,7 +17,7 @@ http://sprudge.com/eight-coffee-roasters-south-korea-seoul-52175.html
 
 ## food
 
-Korean food is pretty seasonal. Given that it's summer, I'll include some summer recommendations and just some generally awesome stuff.
+Korean food is pretty seasonal. 
 
 ### samgyetang 삼계탕
 이열치열! Fight fire with fire. Whole chicken stuffed with herbs, rice, and a whole lotta love cooked in a thick ginsengy reduced soup. Most places serving this will be solid. The following place is good if find yourself nearby:
