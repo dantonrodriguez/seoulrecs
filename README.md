@@ -3,7 +3,7 @@
 ## be prepared to not use google maps
 Google maps is only marginally better than useless in Korea. As of early 2017, Foursquare and then tripadvisor were the best English language crowd-sourced review resources. Despite this, I have included links to places on google maps.
 
-Naver maps and Daum maps are what the locals use and amazing. As long as you can read Korean.      
+Naver maps and Daum maps are what the locals use and are good. Naver maps effectively require you to read Korean. Daum, you can generally get by with only reading English as the interaction design is reasonable.
 
 ## coffee
 
@@ -20,14 +20,13 @@ http://sprudge.com/eight-coffee-roasters-south-korea-seoul-52175.html
 Korean food is pretty seasonal. 
 
 ### samgyetang 삼계탕
-이열치열! Fight fire with fire. Whole chicken stuffed with herbs, rice, and a whole lotta love cooked in a thick ginsengy reduced soup. Most places serving this will be solid. The following place is good if find yourself nearby:
+ Whole chicken stuffed with herbs, rice, and a whole lotta love cooked in a thick ginsengy reduced soup. Most places serving this will be solid. The following place is reliably good:
 
 https://www.google.com/maps/place/37%C2%B031'09.2%22N+127%C2%B003'03.6%22E/@37.5192211,127.0504528,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d37.51922!4d127.051
 
 ### jjim dak 찜닭
-Chicken, noodles, potatoes, and fire. My second favorite dish in Korea. Unless you are comfortable eating raw serrano chiles or something similar, do not get the maximum heat version. Look for the bird hugging the chile pepper.
+Chicken, noodles, potatoes, and fire. My second favorite dish in Korea. Unless you are comfortable eating raw serrano chiles or something similar, do not get the maximum heat version.
 https://www.google.com/maps/place/%EB%B8%8C%EB%A0%88%EB%93%9C%EA%B0%80%EB%93%A0%EA%B0%95%EB%82%A8%EC%97%AD%EC%A0%90/@37.5002671,127.0271138,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x0:0x0!2zMzfCsDMwJzQ0LjciTiAxMjfCsDA2JzMzLjUiRQ!3b1!8m2!3d37.512424!4d127.109299!3m4!1s0x357ca158492dfdf7:0xe917899078ceebe0!8m2!3d37.500266!4d127.027661
-
 
 
 ### maeun galbi jjim 매운 갈비찜
@@ -37,3 +36,4 @@ https://www.google.com/maps/place/37%C2%B030'21.0%22N+127%C2%B005'53.7%22E/@37.5
 ### yang gochi 양꼬치
 Cumin and chile covered lamb skewers. Recommended beverage: so-maek which is 3 parts beer to 1 part soju. This place is near a lake that is quite scenic during the spring and fall.
 https://www.google.com/maps/place/37%C2%B030'44.7%22N+127%C2%B006'33.5%22E/@37.5124519,127.1091639,21z/data=!4m5!3m4!1s0x0:0x0!8m2!3d37.512424!4d127.109299
+
